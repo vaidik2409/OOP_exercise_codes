@@ -10,7 +10,7 @@ public class pra1 {
 
         double feet = meters * 3.28084;
 
-        System.out.printf("Distance in feet: %.2f", feet);
+        System.out.printf("Distance in feet : %.2f", feet);
         
     }
 }
